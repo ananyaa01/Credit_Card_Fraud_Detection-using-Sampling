@@ -36,7 +36,7 @@ Main challenges involved in credit card fraud detection are:
 ## Applying Different models on all 5 samples and comparing the Accuracies
 
 
-<img align="centre" src="https://github.com/ananyaa01/Credit_Card_Fraud_Detection-using-Sampling/blob/0cfb22bd04e194217d8ef1b6a1908f917fdccd5f/Screenshot%202023-02-20%20at%201.50.30%20AM.png" height="550" />
+<img align="centre" src="https://github.com/ananyaa01/Credit_Card_Fraud_Detection-using-Sampling/blob/31f9b09566f81b8998697a5a9d694db15aa1bdaa/Screenshot%202023-02-20%20at%202.03.03%20AM.png" height="550" />
 
 # Results:
 
