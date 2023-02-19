@@ -22,3 +22,5 @@ Main challenges involved in credit card fraud detection are:
 
 ## Applying SMOTE to do oversampling
 
+- SMOTE (Synthetic Minority Over-Sampling Technique), which is a combination of oversampling and undersampling, but the oversampling approach is not by replicating minority class but constructing new minority class data instance via an algorithm.
+
