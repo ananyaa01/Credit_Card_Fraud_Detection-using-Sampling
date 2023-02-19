@@ -16,5 +16,5 @@ Main challenges involved in credit card fraud detection are:
 
 - Checking for the balanced or imbalanced dataset
 
-
+<img align="centre" src="https://github.com/ananyaa01/Credit_Card_Fraud_Detection-using-Sampling/blob/2968ce6bda4657ae910e86f0511f118ad24fa9ba/Screenshot%202023-02-20%20at%201.14.02%20AM.png" height="550" />
 
