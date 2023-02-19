@@ -7,3 +7,12 @@ Main challenges involved in credit card fraud detection are:
 
 2-Imbalanced Data i.e most of the transactions (99.8%) are not fraudulent which makes it really hard for detecting the fraudulent ones
 3-Data availability as the data is mostly private.
+
+# Getting Started
+
+- Importing the required libraries
+
+- Loading the dataset
+
+- Checking for the balanced or imbalanced dataset
+
