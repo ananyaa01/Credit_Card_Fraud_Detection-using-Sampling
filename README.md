@@ -33,5 +33,8 @@ Main challenges involved in credit card fraud detection are:
 - Cluster Sampling
 - Reservoir Sampling
 
+## Applying Different models on all 5 samples and comparing the Acuuracies
+
+
 
 
