@@ -42,6 +42,11 @@ Main challenges involved in credit card fraud detection are:
 
 - Ramdom Forest Classifier gives best accuracy on all types of sampling.
 
+## Submitted By:
+
+- Ananya Agarwal
+- Roll No: 102017085
+
 
 
 
