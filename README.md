@@ -36,6 +36,19 @@ Main challenges involved in credit card fraud detection are:
 ## Applying Different models on all 5 samples and comparing the Accuracies
 
 
+|         | Random   | Systematic  | Stratified | Cluster | Reservoir |
+| :----: | :----: | :----: |  :----: | :----: | :----: |
+| Grid Search | 0.875 |	0.937 |	0.854 |	0.953 |	0.886  |
+| :----: | :----: | :----: |  :----: | :----: | :----: |
+| Naive Bayes | 0.621 |	0.937 |	0.725 |	0.886 |	0.73 |
+| :----: | :----: | :----: |  :----: | :----: | :----: |
+| Logistic Regression | 0.86| 0.911 |	0.849 |	0.917 |	0.87 |
+| :----: | :----: | :----: |  :----: | :----: | :----: |
+| Random Forest | 0.99481 |	0.994 |	0.994 |	0.994 |	0.994 |
+| :----: | :----: | :----: |  :----: | :----: | :----: |
+| Decision Tree | 0.917	| 0.917	| 0.922 |	0.979	 | 0.932 |
+
+
 <img align="centre" src="https://github.com/ananyaa01/Credit_Card_Fraud_Detection-using-Sampling/blob/31f9b09566f81b8998697a5a9d694db15aa1bdaa/Screenshot%202023-02-20%20at%202.03.03%20AM.png" height="550" />
 
 # Results:
